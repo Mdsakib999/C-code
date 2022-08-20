@@ -1,3 +1,5 @@
+//calculate the area of circal
+
 #include<stdio.h>
 int main()
 {

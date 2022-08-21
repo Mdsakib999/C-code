@@ -1,8 +1,10 @@
+//First C code......print "Hello world"
+
 #include <stdio.h>
 
 int main()
 {
-    printf("h");
+    printf("Hello world");
 
     return 0;
 }

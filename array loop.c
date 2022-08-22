@@ -1,3 +1,5 @@
+//Calculate the average of a given element of an array.
+
 #include<stdio.h>
 int main()
 {

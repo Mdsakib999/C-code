@@ -1,3 +1,5 @@
+//printing patten in C
+
 #include<stdio.h>
 int main()
 {
@@ -5,7 +7,7 @@ int main()
 
     printf("Enter the number of rows\t");
     scanf ("%d", &rows);
-    for(a=1;a<=rows;a++)
+    for(a=1; a <= rows; a++)
     {
         for (b=a; b<rows; b++)
         {

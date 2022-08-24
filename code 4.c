@@ -1,3 +1,5 @@
+//Sum of integer and float.
+
 #include <stdio.h>
 int main()
 {

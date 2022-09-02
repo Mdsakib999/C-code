@@ -1,3 +1,7 @@
+//Arra problem
+//Calculate th length and find content of an arra?
+
+
 #include<stdlib.h>
 #include<stdio.h>
 int main()

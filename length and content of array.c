@@ -1,5 +1,5 @@
-//Arra problem
-//Calculate th length and find content of an arra?
+//Array problem
+//Calculate th length and find content of an array?
 
 
 #include<stdlib.h>

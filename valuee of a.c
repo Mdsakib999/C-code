@@ -1,3 +1,5 @@
+//Calculate the sum of 2 number
+
 #include <stdio.h>
 int main()
 {

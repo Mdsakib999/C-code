@@ -1,3 +1,5 @@
+//Stack smashing detector
+
 #include<stdio.h>
 void strcat(char*s, char*t)
 {

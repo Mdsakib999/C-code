@@ -1,3 +1,5 @@
+// Grading using C programming.
+
 #include<stdio.h>
 char scoreTograde (int score);
 int main(void)

@@ -1,3 +1,7 @@
+//Take 2 number as an input.
+// Give values of addition, subtraction, multiplication and division.
+
+
 #include<stdio.h>
 int main()
 {

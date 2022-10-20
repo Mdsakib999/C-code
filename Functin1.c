@@ -1,3 +1,5 @@
+//Division of of given number using function.
+
 #include<stdio.h>
 
 void print_Divi(int x)

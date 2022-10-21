@@ -1,3 +1,5 @@
+// Take a number from user as input.
+
 #include<stdio.h>
 int main()
 {

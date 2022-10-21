@@ -1,4 +1,6 @@
 // Take a number from user as input.
+// Return the number positive or negative.
+
 
 #include<stdio.h>
 int main()

@@ -1,3 +1,6 @@
+// Find even or odd number using math condition.
+
+
 #include<stdio.h>
 int main()
 {

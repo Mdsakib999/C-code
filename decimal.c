@@ -1,3 +1,6 @@
+// Print decimal number
+
+
 #include<stdio.h>
 int main()
 {

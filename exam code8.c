@@ -1,4 +1,4 @@
-
+// Calculate the sum and Average of given value.
 
 
 #include<stdio.h>

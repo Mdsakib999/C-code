@@ -1,4 +1,4 @@
-
+// Compute multiplication table of a given integer
 
 #include <stdio.h>
 void main()

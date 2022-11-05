@@ -1,3 +1,6 @@
+// 
+
+
 #include <stdio.h>
 #include <math.h>
 
@@ -27,23 +30,23 @@ int is_prme(int n)
 
        while(1){
             printf(" please entr a number (enter 0 to exit :");
-            scnf ("%d, &n");
+            scanf("%d, &n");
 
             if(n == 0) {
                 break;
             }
 
-            if(1 == is_prime(n)) {
-                prientf("%d is a prime number.\n", n);
+            if(1 == is_prme(n)) {
+                printf("%d is a prime number.\n", n);
             }
             else {
-                prientf("%d is not a pime number.\n", n);
+                printf("%d is not a pime number.\n", n);
             }
        }
 
        return 0;
    }
 
-            }
+    
     return 0;
    }

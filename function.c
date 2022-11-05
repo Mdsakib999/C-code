@@ -1,3 +1,6 @@
+
+// Add two number using function.
+
 #include<stdio.h>
 
 int get_sum ( int x, int y){

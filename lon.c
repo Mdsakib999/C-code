@@ -1,3 +1,6 @@
+// Lon and interest counter in C
+
+
 #include<stdio.h>
 int main()
 {

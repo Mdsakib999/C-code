@@ -1,3 +1,7 @@
+// (Namata) 
+// multiplication table using while loop in C
+
+
 #include<stdio.h>
 int main()
 {

@@ -1,4 +1,4 @@
-// 
+// Check the prime number in C
 
 
 #include <stdio.h>

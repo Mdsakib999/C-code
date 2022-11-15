@@ -1,3 +1,5 @@
+// Namta of given N number
+
 
 #include<stdio.h>
 int main()

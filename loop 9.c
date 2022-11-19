@@ -1,15 +1,17 @@
+// Loop related problem
+
 #include<stdio.h>
 int main()
 {
     int n, i, m, j;
 
      scanf("%d", &n);
-   for(i=0; i <= n; i++)
+   for(i = 0; i <= n; i++)
         {
         scanf("%d", &m);
-       for(j=10; j<=m; j++)
+       for(j = 10; j<=m; j++)
        {
-           if(j % 11==0)
+           if(j % 11 == 0)
            {
                continue;
            }

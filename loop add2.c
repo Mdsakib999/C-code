@@ -1,4 +1,4 @@
-
+// Infinit loop
 
 
 #include<stdio.h>

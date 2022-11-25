@@ -1,3 +1,5 @@
+// Character related problem in C
+
 #include<stdio.h>
 int strend(char*s, char*t)
 {

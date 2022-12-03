@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int n=1;
-    while(n<= 100)
+    int n = 1;
+    while(n <= 100)
     {
         printf("%d\n", n);
-        n++;
-        if (n >  1 0)
+         n++;
+        if (n > 10)
         {
             break;
         }

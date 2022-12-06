@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    int n =0;
+    int n = 0;
     while(n < 40)
     {
-        n = n+1;
+        n = n + 1;
         if(n % 2 == 0)
         {
             continue;

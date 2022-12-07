@@ -1,3 +1,4 @@
+// Print double of given number using loop.
 
 
 #include<stdio.h>

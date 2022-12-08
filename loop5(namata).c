@@ -1,4 +1,4 @@
-
+// Namta using while loop.
 
 
 #include<stdio.h>

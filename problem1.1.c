@@ -1,3 +1,5 @@
+// While loop problem
+
 #include<stdio.h>
 int main()
 {
@@ -7,6 +9,7 @@ int main()
         b = b - 1;
         c--;
     }
-    printf("a= %d, b= %d, c= %d", a,b,c);
+    
+    printf("a = %d, b = %d, c = %d", a, b, c);
     return 0;
 }

@@ -12,8 +12,8 @@ fun(int a[], int n, int m)
 main()
 
 {
-    int i,a[N] = {1,2,3,4,5,6,7,8,9,10};
+    int i, a[N] = {1,2,3,4,5,6,7,8,9,10};
     fun (a, 2, 9);
-    for(i=0; i<5; i++)
+    for(i= 0; i<5; i++)
     printf("%d", a[i]);
 }

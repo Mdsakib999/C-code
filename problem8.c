@@ -1,4 +1,5 @@
-// 
+// pattan problem
+// printing Love 
 
 
 #include<stdio.h>

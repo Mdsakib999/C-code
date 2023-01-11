@@ -1,3 +1,4 @@
+//C program to convert Total days to year, month and days  */
 
 
 
@@ -8,7 +9,7 @@
 int main(void)
 {
     int d,y,m,sum;
-    printf("Enter number of days: ");
+    printf("Enter the number of days: ");
     scanf("%d",&d);
     y = d / 365;
     d = d % 365;

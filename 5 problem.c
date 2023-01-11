@@ -1,9 +1,6 @@
 //C program to convert Total days to year, month and days  */
 
 
-
-
-
 #include <stdio.h>
 
 int main(void)

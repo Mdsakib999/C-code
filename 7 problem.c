@@ -1,4 +1,4 @@
-
+// Calculate the total number of hours and minutes?
 
 
 
@@ -12,7 +12,7 @@ const int MINaHOUR = 60;
 char line_text[50];      
 
 int main() {
-	printf("Input minutes: ");
+	printf("Enter minutes: ");
 	fgets(line_text, sizeof(line_text), stdin);
 	sscanf(line_text, "%d", &tot_mins);
 

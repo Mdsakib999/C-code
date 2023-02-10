@@ -1,3 +1,6 @@
+// Find Prime number using C.
+
+
 #include<stdio.h>
 int main()
 {

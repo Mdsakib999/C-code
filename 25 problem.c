@@ -1,3 +1,4 @@
+// Array related problem
 //printing patten in C
 
 #include<stdio.h>

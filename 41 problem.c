@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-    int a, divisor=10;
+    int a, divisor = 10;
     scanf("%d", &a);
     if(a% divisor == 0)
     {

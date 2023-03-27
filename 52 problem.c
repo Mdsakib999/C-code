@@ -1,4 +1,4 @@
-// Write a program that converts Centigrade to Fahrenheit.
+// Write a program that converts temperature Celsius to Fahrenheit.
 
 
 #include <stdio.h>

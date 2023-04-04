@@ -1,6 +1,11 @@
 
-/*C program to print size of variables using sizeof() operator.*/
- 
+
+// C program to print size of variables using sizeof() operator?
+
+
+
+
+
 #include <stdio.h>
  
 int main()

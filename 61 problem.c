@@ -9,13 +9,12 @@
 int main()
 {
 
-    int a, b;
-    int diff;
+    int a, b, diff;
 
     printf("Enter first number: ");
     scanf("%d",&a);
     printf("\nEnter second number: ");
-    scanf("%d",&b);
+    scanf("%d", &b);
 
     // check condition to identify which is largest number
     if( a > b )
@@ -24,5 +23,6 @@ int main()
         diff = b - a;
 
     printf("\nDifference between %d and %d is = %d\n",a, b, diff);
+    
     return 0;
 }

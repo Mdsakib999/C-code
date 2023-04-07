@@ -1,4 +1,4 @@
-// Number counting using while loop
+// Counting number using while loop
 
 #include<stdio.h>
 int main()

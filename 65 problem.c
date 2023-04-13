@@ -1,4 +1,6 @@
 // Namta using while loop.
+// Counting Table
+
 
 
 #include<stdio.h>

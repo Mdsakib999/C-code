@@ -1,3 +1,5 @@
+// Find the middle number of given 3 number.
+
 #include<stdio.h>
 #include<stdlib.h>
 int main()

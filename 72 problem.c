@@ -1,3 +1,5 @@
+// C Exercises: Find the sum of all elements of an array?
+
 
 
 #include <stdio.h>

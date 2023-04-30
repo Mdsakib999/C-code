@@ -8,7 +8,7 @@ int is_prme(int n)
 {
   int i, root;
 
-  if(n== 2) {
+  if(n == 2) {
       return 1;
   }
 
@@ -18,7 +18,7 @@ int is_prme(int n)
 
   root = sqrt(n);
 
-  for(i = 3; i <=root; i = i + 2) {
+  for(i = 3; i <= root; i = i + 2) {
     if(n % i == 0) {
        return 0;
      }

@@ -8,6 +8,7 @@ int main()
      printf("Enter the number of rows\t");
      scanf("%d", &rows);
       for ( a = 1; a <= rows; a++ )
+       
       {
           //print margin spaces before the stars in each roes
        
@@ -24,5 +25,6 @@ int main()
           printf("\n");
 
       }
+  
       return 0;
  }

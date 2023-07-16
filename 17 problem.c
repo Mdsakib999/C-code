@@ -1,4 +1,4 @@
-// While loop problem
+// While loop problem and solution
 
 #include<stdio.h>
 int main()

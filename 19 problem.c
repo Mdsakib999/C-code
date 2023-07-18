@@ -6,7 +6,7 @@
 int main()
 {
     int i, sum = 0;
-    for(i = 101; i<=201; i++)
+    for(i = 101; i <= 201; i++)
         {
 
        printf("The number is %d\n", i);
